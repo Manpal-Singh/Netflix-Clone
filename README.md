@@ -1,4 +1,4 @@
-# Netflix-Clone
+Netflix-Clone
 ------------------------------
 It is a fully responsive cloned website of Netflix using Reactjs.
 
